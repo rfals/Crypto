@@ -2,6 +2,7 @@
 
 The repository currently holds 2 projects, developed in Python. They utilize Object Oriented Programming, user defined functions, API's, custom packages, and more.
 
+#### Disclaimer:
 The projects were created for learning purposes and do not provide any financial advice.
 
 
